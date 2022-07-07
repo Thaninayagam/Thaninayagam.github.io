@@ -1,2 +1,0 @@
-# Thaninayagam.github.io
-thanidevsite
