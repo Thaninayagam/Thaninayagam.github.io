@@ -1,0 +1,1 @@
+import{_ as t,o as s,c,a as e}from"./index.9ac88683.js";const o={},n={class:"container flex flex-col h-full text-center pt-10 content-center"},r=e("div",{class:""},[e("h1",{class:"text-4xl"},"This page is under construction. Thanks for visiting!")],-1),a=[r];function i(_,l){return s(),c("div",n,a)}var d=t(o,[["render",i]]);export{d as default};
