@@ -1,1 +1,0 @@
-const s="/assets/csharp.879b9355.png",_="/assets/korat.379258bc.png",t="/assets/koratB1.08c2dbf8.png",a="/assets/thisite.f98c2274.png",e="/assets/tworks.72c148d3.png",o="/assets/tworksMain.87333a6e.png",n="/assets/tworkserp.f406ea0b.png";export{s as _,_ as a,t as b,a as c,e as d,o as e,n as f};
